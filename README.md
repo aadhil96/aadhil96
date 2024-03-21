@@ -1,4 +1,4 @@
-## Hi there, I'm Mohamed Aadhil Imam! 👋
+# Hi there, I'm Mohamed Aadhil Imam! 👋
 
 🌟 Highly self-motivated and results-oriented graduate student with over 3 years of professional experience in Machine Learning, Data Science, Deep Learning, Natural Language Processing, and Machine Learning Operations (MLOps).
 
