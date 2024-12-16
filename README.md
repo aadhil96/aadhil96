@@ -10,16 +10,7 @@
 
 ## 🧑‍💻 Professional Overview
 
-I am a passionate and results-oriented professional with expertise in **Data Science**, **Data Engineering**, and **Machine Learning Operations (MLOps)**. With over 3.5 years of industry experience, I specialize in designing and implementing scalable data solutions, developing machine learning models, and leveraging Generative AI technologies to solve complex business challenges. My core competencies include:
-
-- Building end-to-end data pipelines and deploying machine learning models at scale.
-- Driving data-driven decision-making with advanced analytics and visualization.
-- Automating workflows and optimizing processes through MLOps frameworks.
-- Enhancing developer experience with cutting-edge Generative AI applications.
-
-My strong background in software development, cloud platforms, and big data technologies allows me to create innovative, high-impact solutions tailored to diverse business needs. Let’s collaborate to unlock the potential of data and technology!
-
-
+Highly motivated and results-oriented professional with 3.5 years of experience in Data Science, Data Engineering, and Machine Learning Operations (MLOps). I have a proven track record in designing and implementing machine learning algorithms, developing scalable Data Pipelines, and driving data-driven business solutions across various industries. With expertise in machine learning model development, data engineering, and data analysis/visualization, I have consistently enhanced operational efficiency and business decision-making. Additionally, I possess strong software development skills and experience in Large Language Model development. As a passionate engineer and analytical thinker, I excel at tackling complex business challenges by applying advanced analytical techniques and delivering innovative, high-impact solutions.
 
 # 🛠️ Skills
 
