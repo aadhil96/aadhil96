@@ -1,12 +1,24 @@
-# Hi there, I'm Mohamed Aadhil Imam! 👋
+# 👋 Hi, I'm Mohamed Aadhil Imam
 
-🌟 Highly self-motivated and results-oriented graduate student with over 3 years of professional experience in Machine Learning, Data Science, Deep Learning, Natural Language Processing, and Machine Learning Operations (MLOps).
+**Location:** Dubai, UAE  
+**Email:** [aadhil.imam@gmail.com](mailto:aadhil.imam@gmail.com)  
+**Phone:** +971 54 759 2035  
+**LinkedIn:** [linkedin.com/in/aadhil-imam](https://linkedin.com/in/aadhil-imam)  
+**GitHub:** [github.com/aadhil96](https://github.com/aadhil96)
 
-🚀 I have a passion for developing and implementing algorithms across diverse domains and driving enhanced business efficiency through Machine Learning Models, Data Preprocessing, Feature Engineering, and Data Analysis and Visualization.
+---
 
-🔭 I am proficient in Software Development and Large Language Model development, adept at applying ML/DL techniques and algorithm development to solve real-world business challenges.
+## 🧑‍💻 Professional Overview
 
-👨‍💻 In my spare time, I enjoy working on various projects and participating in hackathons and competitions to showcase my innovation and problem-solving skills.
+I am a passionate and results-oriented professional with expertise in **Data Science**, **Data Engineering**, and **Machine Learning Operations (MLOps)**. With over 3.5 years of industry experience, I specialize in designing and implementing scalable data solutions, developing machine learning models, and leveraging Generative AI technologies to solve complex business challenges. My core competencies include:
+
+- Building end-to-end data pipelines and deploying machine learning models at scale.
+- Driving data-driven decision-making with advanced analytics and visualization.
+- Automating workflows and optimizing processes through MLOps frameworks.
+- Enhancing developer experience with cutting-edge Generative AI applications.
+
+My strong background in software development, cloud platforms, and big data technologies allows me to create innovative, high-impact solutions tailored to diverse business needs. Let’s collaborate to unlock the potential of data and technology!
+
 
 
 # 🛠️ Skills
