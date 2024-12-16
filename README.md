@@ -11,8 +11,8 @@
 
 # 🛠️ Skills
 
-- **Programming Languages:** Python, R, Core Java, C/C++, JavaScript
-- **Technologies/Frameworks/Libraries:** Pandas, Scikit-Learn, TensorFlow, Keras, PyTorch, OpenCV, Django, ML Flow
+- **Programming Languages:** Python, R
+- **Technologies/Frameworks/Libraries:** Pandas, Scikit-Learn, TensorFlow, Keras, PyTorch, OpenCV, ML Flow
 - **Data Science and Miscellaneous Technologies:** Data Science and Machine Learning Pipeline, Statistics, Hypothesis Testing, Data Analysis, CI/CD Pipeline, MLOps, AutoML
 - **Machine Learning and Deep Learning:** Regression, Classification, CNN, RNN, LSTM, Transfer Learning, Transformers, BERT, Vision Transformers, Large Language Models, Hugging Face
 - **Generative AI and Technologies:** OpenAI API, Azure OpenAI API, Gemini Pro, Prompt Engineering, Langhian, LlamaIndex, Pinecone, Opensource Large Language Models, RAG
