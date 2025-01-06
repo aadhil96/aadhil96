@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 Professional Overview
 
-Highly motivated and results-oriented professional with 3.5 years of experience in Data Science, Data Engineering, and Machine Learning Operations (MLOps). I have a proven track record in designing and implementing machine learning algorithms, developing scalable Data Pipelines, and driving data-driven business solutions across various industries. With expertise in machine learning model development, data engineering, and data analysis/visualization, I have consistently enhanced operational efficiency and business decision-making. Additionally, I possess strong software development skills and experience in Large Language Model development. As a passionate engineer and analytical thinker, I excel at tackling complex business challenges by applying advanced analytical techniques and delivering innovative, high-impact solutions.
+Highly motivated and results-oriented professional with 5+ years of experience in Data Science, Data Engineering, and Machine Learning Operations (MLOps). I have a proven track record in designing and implementing machine learning algorithms, developing scalable Data Pipelines, and driving data-driven business solutions across various industries. With expertise in machine learning model development, data engineering, and data analysis/visualization, I have consistently enhanced operational efficiency and business decision-making. Additionally, I possess strong software development skills and experience in Large Language Model development. As a passionate engineer and analytical thinker, I excel at tackling complex business challenges by applying advanced analytical techniques and delivering innovative, high-impact solutions.
 
 # 🛠️ Skills
 
