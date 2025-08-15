@@ -1,5 +1,5 @@
 # 🚀 Mohamed Aadhil Imam
-### AI Engineer | ML Engineer | Data Scientist
+### AI Engineer | ML Engineer | Data Scientist | Analytics Engineer
 
 <div align="center">
 
