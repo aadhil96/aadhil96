@@ -1,12 +1,3 @@
-# 👋 Hi, I'm Mohamed Aadhil Imam
-
-**Location:** Dubai, UAE  
-**Email:** [aadhil.imam@gmail.com](mailto:aadhil.imam@gmail.com)  
-**Phone:** +971 54 759 2035  
-**LinkedIn:** [linkedin.com/in/aadhil-imam](https://linkedin.com/in/aadhil-imam)  
-**GitHub:** [github.com/aadhil96](https://github.com/aadhil96)
-
-
 # 🚀 Mohamed Aadhil Imam
 ### AI Engineer | ML Engineer | Data Scientist
 
@@ -19,6 +10,26 @@
 
 </div>
 
+---
+
+## 🎯 About Me
+
+> **"Transforming raw data into intelligent AI solutions that revolutionize business operations through advanced analytics and cutting-edge Generative AI"**
+
+I'm a passionate **AI Engineer and Data Scientist specializing in Generative AI and LLM Development** with **5+ years** of experience building data-driven AI systems. My expertise spans the complete data-to-intelligence pipeline: from exploratory data analysis and statistical modeling to deploying sophisticated Large Language Model applications. I excel at combining traditional data science methodologies with modern generative AI to create comprehensive, production-ready solutions that deliver measurable business impact.
+
+### 🌟 What I Do
+- 🧠 **Generative AI Development**: Design and deploy advanced LLM applications with RAG, agents, and multi-modal capabilities
+- 📊 **Advanced Data Science**: Perform complex statistical analysis, predictive modeling, and data-driven insights generation
+- 🔧 **LLM Engineering**: Fine-tune, optimize, and deploy Large Language Models for specific business use cases
+- 📈 **Analytics & Insights**: Build comprehensive dashboards and reporting systems for strategic decision-making
+- 💬 **Conversational AI**: Build intelligent chatbots, virtual assistants, and dialogue systems
+- 🔗 **RAG Systems**: Develop Retrieval-Augmented Generation solutions for enterprise knowledge management
+- ⚡ **AI Agents**: Create autonomous AI agents for task automation and decision-making
+- 🧪 **Experimentation**: Design and execute A/B tests, statistical experiments, and ML model validation
+- 🎨 **Multi-modal AI**: Integrate text, image, audio, and video processing in unified AI systems
+- 🚀 **LLM MLOps**: Implement specialized CI/CD pipelines for generative AI model deployment and monitoring
+- 📊 **AI Strategy**: Provide technical leadership on AI adoption and data-driven transformation strategies
 
 ---
 
