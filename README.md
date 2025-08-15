@@ -20,14 +20,15 @@ I'm a passionate **AI Engineer and Data Scientist specializing in Generative AI 
 
 ### 🌟 What I Do
 - 🧠 **Generative AI Development**: Design and deploy advanced LLM applications with RAG, agents, and multi-modal capabilities
-- 📊 **Advanced Data Science**: Perform complex statistical analysis, predictive modeling, and data-driven insights generation
+- 🛠️ **AI Microservice Development**: Architect and deploy scalable, containerized AI services for seamless integration into enterprise systems
+- 📊 **Advanced Data Science**: Perform complex Data analysis, predictive modeling, and data-driven insights generation
 - 🔧 **LLM Engineering**: Fine-tune, optimize, and deploy Large Language Models for specific business use cases
-- 📈 **Analytics & Insights**: Build comprehensive dashboards and reporting systems for strategic decision-making
 - 💬 **Conversational AI**: Build intelligent chatbots, virtual assistants, and dialogue systems
+- 📈 **Analytics & Insights**: Build comprehensive dashboards and reporting systems for strategic decision-making
 - 🔗 **RAG Systems**: Develop Retrieval-Augmented Generation solutions for enterprise knowledge management
 - ⚡ **AI Agents**: Create autonomous AI agents for task automation and decision-making
-- 🧪 **Experimentation**: Design and execute A/B tests, statistical experiments, and ML model validation
 - 🎨 **Multi-modal AI**: Integrate text, image, audio, and video processing in unified AI systems
+- 🧪 **Experimentation**: Design and execute A/B tests, statistical experiments, and ML model validation
 - 🚀 **LLM MLOps**: Implement specialized CI/CD pipelines for generative AI model deployment and monitoring
 - 📊 **AI Strategy**: Provide technical leadership on AI adoption and data-driven transformation strategies
 
