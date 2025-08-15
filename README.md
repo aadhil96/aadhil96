@@ -28,7 +28,7 @@ I'm a passionate **AI Engineer and Data Scientist specializing in Generative AI 
 - 🔗 **RAG Systems**: Develop Retrieval-Augmented Generation solutions for enterprise knowledge management
 - ⚡ **AI Agents**: Create autonomous AI agents for task automation and decision-making
 - 🎨 **Multi-modal AI**: Integrate text, image, audio, and video processing in unified AI systems
-- 🔄 ML Pipeline Development: Build end-to-end machine learning workflows from data ingestion to model deployment and monitoring
+- 🔄 **ML Pipeline Development**: Build end-to-end machine learning workflows from data ingestion to model deployment and monitoring
 - 🧪 **Experimentation**: Design and execute A/B tests, statistical experiments, and ML model validation
 - 🚀 **LLM MLOps**: Implement specialized CI/CD pipelines for generative AI model deployment and monitoring
 - 📦 **Data Pipeline & Automation**: Design and automate robust ETL/ELT pipelines for reliable, real-time data processing
