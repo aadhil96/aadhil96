@@ -6,6 +6,20 @@
 **LinkedIn:** [linkedin.com/in/aadhil-imam](https://linkedin.com/in/aadhil-imam)  
 **GitHub:** [github.com/aadhil96](https://github.com/aadhil96)
 
+
+# 🚀 Mohamed Aadhil Imam
+### AI Engineer | ML Engineer | Data Scientist
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadhil-imam)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadhil.imam@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadhil96)
+[![Location](https://img.shields.io/badge/Dubai-UAE-red?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+
+</div>
+
+
 ---
 
 ## 🧑‍💻 Professional Overview
