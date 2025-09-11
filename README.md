@@ -44,8 +44,8 @@ I'm a passionate **AI Engineer and Data Scientist specializing in Generative AI 
 - **Automation & Orchestration:** N8n, CI/CD Pipelines, MLOps, AutoML  
 
 ### 🤖 AI & Machine Learning
-- **Machine Learning & Deep Learning:** Regression, Classification, CNN, RNN, LSTM, Transformers (BERT, Vision Transformers), Transfer Learning, Large Language Models (LLMs), Hugging Face  
-- **Generative AI & LLM Engineering:** OpenAI API, Azure OpenAI, LangChain, LlamaIndex, RAG (Retrieval-Augmented Generation), LangGraph, CrewAI, HyStack  
+- **Generative AI & LLM Engineering:** OpenAI API, Azure OpenAI, LangChain, LlamaIndex, RAG (Retrieval-Augmented Generation), LangGraph, CrewAI, HyStack 
+- **Machine Learning & Deep Learning:** Regression, Classification, CNN, RNN, LSTM, Transformers (BERT, Vision Transformers), Transfer Learning, Large Language Models (LLMs), Hugging Face   
 - **AI Solutions:** AI Microservices, Conversational AI, AI Agents, Multi-modal AI, LLM MLOps, RAG Systems  
 
 ### 📊 Data Science & Analytics
