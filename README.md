@@ -60,7 +60,7 @@ I'm a passionate **AI Engineer and Data Scientist specializing in Generative AI 
 - **Deployment & Monitoring:** Containerization (Docker), Cloud Deployments, Logging & Monitoring, Scalability & Performance Optimization  
 
 ### ☁️ Cloud & Infrastructure
-- **Cloud Platforms:** AWS (SageMaker, S3, Lambda, Glue), Azure (Data Factory)  
+- **Cloud Platforms:** AWS (SageMaker, S3, Lambda, Glue), Azure (Data Factory, Azure Functions, AI Studio, Syanpse, Blob Storage)  
 - **Databases:** MySQL, Snowflake, Oracle SQL, Microsoft SQL Server  
 - **Data Storage & Management:** Vector Databases (Pinecone, ChromaDB, FAISS, Qdrant)
 
