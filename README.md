@@ -31,7 +31,7 @@ I'm a passionate **AI Engineer and Data Scientist specializing in Generative AI 
 - 🔄 **ML Pipeline Development**: Build end-to-end machine learning workflows from data ingestion to model deployment and monitoring
 - 🧪 **Experimentation**: Design and execute A/B tests, statistical experiments, and ML model validation
 - 🚀 **LLM MLOps**: Implement specialized CI/CD pipelines for generative AI model deployment and monitoring
-- 📦 **Data Pipeline & Automation**: Design and automate robust ETL/ELT pipelines for reliable, real-time data processing
+- 📦 **Data Pipeline & Automation**: Design and automate robust ETL/ELT pipelines for reliable, data processing
 - 📊 **Data Dashboard Visualizations**: Develop interactive and insightful dashboards for real-time analytics and decision support
 - 📊 **AI Strategy**: Provide technical leadership on AI adoption and data-driven transformation strategies
 
