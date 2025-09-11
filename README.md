@@ -38,14 +38,31 @@ I'm a passionate **AI Engineer and Data Scientist specializing in Generative AI 
 
 ## 🛠️ Tech Stack
 
-- **Programming Languages:** Python, R
-- **Technologies/Frameworks/Libraries:** Pandas, Scikit-Learn, TensorFlow, Keras, PyTorch, OpenCV, ML Flow
-- **Data Science and Miscellaneous Technologies:** Data Science and Machine Learning Pipeline, Statistics, Hypothesis Testing, Data Analysis, CI/CD Pipeline, MLOps, AutoML
-- **Machine Learning and Deep Learning:** Regression, Classification, CNN, RNN, LSTM, Transfer Learning, Transformers, BERT, Vision Transformers, Large Language Models, Hugging Face
-- **Generative AI and Technologies:** OpenAI API, Azure OpenAI API, Gemini Pro, Prompt Engineering, Langhian, LlamaIndex, Pinecone, Opensource Large Language Models, RAG
-- **Cloud:** AWS Sagemaker, AWS S3, AWS Lambda, Azure Data Factory, AWS Glue
-- **Database Management:** MySQL, Snowflake SQL, Oracle SQL, Microsoft SQL Server
-- **Big Data Technologies:** ETL, PySpark Basics
-- **Dashboard Developments:** Power BI
+### 💻 Programming & Development
+- **Languages:** Python  
+- **Frameworks & Libraries:** FastAPI, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV, MLflow  
+- **Automation & Orchestration:** N8n, CI/CD Pipelines, MLOps, AutoML  
+
+### 🤖 AI & Machine Learning
+- **Machine Learning & Deep Learning:** Regression, Classification, CNN, RNN, LSTM, Transformers (BERT, Vision Transformers), Transfer Learning, Large Language Models (LLMs), Hugging Face  
+- **Generative AI & LLM Engineering:** OpenAI API, Azure OpenAI, LangChain, LlamaIndex, RAG (Retrieval-Augmented Generation), LangGraph, CrewAI, HyStack  
+- **AI Solutions:** AI Microservices, Conversational AI, AI Agents, Multi-modal AI, LLM MLOps, RAG Systems  
+
+### 📊 Data Science & Analytics
+- **Core Skills:** Statistical Modeling, Hypothesis Testing, Data Analysis, Experimentation (A/B testing)  
+- **Data Pipelines:** Core Data Engeeing, ETL/ELT, Data Ingestion, Data Processing & Automation  
+- **Big Data:** PySpark , Snowflake  
+- **Visualization & Dashboards:** Power BI , Tableau 
+
+### 🧩 Software Development
+- **Design & Architecture:** Microservices Architecture, API Design, Modular Code Design, Clean Architecture  
+- **Development Practices:** Version Control (Git/GitHub), Code Review, Documentation  
+- **Deployment & Monitoring:** Containerization (Docker), Cloud Deployments, Logging & Monitoring, Scalability & Performance Optimization  
+
+### ☁️ Cloud & Infrastructure
+- **Cloud Platforms:** AWS (SageMaker, S3, Lambda, Glue), Azure (Data Factory)  
+- **Databases:** MySQL, Snowflake, Oracle SQL, Microsoft SQL Server  
+- **Data Storage & Management:** Vector Databases (Pinecone, ChromaDB, FAISS, Qdrant)
+
 
 
